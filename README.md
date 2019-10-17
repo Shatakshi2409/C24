@@ -1,1 +1,1 @@
-# C24
+# Box Class
